@@ -1,0 +1,40 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+body{
+  margin:0px;
+  background-color: #9dab86
+}
+nav{
+  height:500px;
+}
+  .nav-ul{
+    list-style-type:none;
+    background-color: #16c79a;
+    margin-top: 0px;
+    overflow:auto;
+    text-decoration:none;
+
+
+
+  }
+  .nav-li{
+    padding:10px 10px;
+    margin-left:50px;
+    color:white;
+    float:left;
+    text-decoration:none;
+
+
+  }
+
+  li a,
+  a:visited {
+    color: #fff;
+    text-decoration:none;
+  }
+
+li:hover {
+  background-color: #4e8d7c;
+}
